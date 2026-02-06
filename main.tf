@@ -12,7 +12,7 @@ provider "aws" {
   region = "us-east-1"
 }
 
-# Day 3 logic: Automatic AMI search taaki Malformed error na aaye
+# logic: Automatic AMI search taaki Malformed error na aaye
 data "aws_ami" "ubuntu" {
   most_recent = true
   owners      = ["099720109477"] # Canonical (Ubuntu) owner ID
@@ -36,7 +36,7 @@ resource "aws_instance" "web_server" {
               EOF
 
   tags = {
-    Name = "Day5-Final-Success"
+    Name = "on the way Success"
   }
 }
 
