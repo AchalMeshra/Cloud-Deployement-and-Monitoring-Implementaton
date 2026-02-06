@@ -1,12 +1,10 @@
 # Cloud Deployment and Monitoring Implementation
 
-इस प्रोजेक्ट में मैंने एक हाई-अवेलेबिलिटी इंफ्रास्ट्रक्चर को सफलतापूर्वक डिप्लॉय और मॉनिटर किया है।
-
 ### **Technical Implementation:**
-* **AWS Cloud:** EC2 इंस्टेंस का उपयोग करके स्केलेबल इंफ्रास्ट्रक्चर तैयार किया।
-* **Nginx Server:** वेब ट्रैफिक को मैनेज करने के लिए वेब सर्वर कॉन्फ़िगर किया।
-* **Monitoring:** सर्वर की हेल्थ और एक्सेस लॉग्स को रियल-टाइम में मॉनिटर किया गया।
-* **CI/CD:** GitHub के जरिए कोड को ऑटोमेटेड तरीके से मैनेज किया।
+* **AWS Cloud:** EC2 
+* **Nginx Server:** 
+* **Monitoring:** 
+* **CI/CD:** GitHub 
 
 ### **Live Project Link:**
  http://54.227.151.237
