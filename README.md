@@ -29,5 +29,5 @@ Deployed a scalable application on AWS with integrated monitoring to ensure high
 Successfully built a reliable cloud environment with monitoring, reducing manual effort and improving system stability.
 
 ---
-**Author:** Achal Jivan Meshram  
+**Author:** Achal J Meshram  
 *Aspiring DevOps Engineer | AWS Enthusiast* 
